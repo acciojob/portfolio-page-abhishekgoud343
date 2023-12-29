@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+body {
+	margin-left : 20px;
+	width : 500px;
+}
+
+h1 {
+	text-align : center;
+}
+
+h2 {
+	color : blue;
+}
+
+div {
+	padding-left : 15px;
+	border : 1px solid black;
+	background : rgb(255, 245, 245);
+}
+
+#profile {
+	padding : 15px;
+}
+
+li > em {
+	font-weight : 550;
+}
